@@ -6,8 +6,7 @@ while i < array.length
   i = i + 1
 end
 array
-else
-  puts "Hey! No block was given!"
+else puts "Hey! No block was given!"
 end
 end
 
